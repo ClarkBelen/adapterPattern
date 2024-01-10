@@ -14,7 +14,7 @@ public class ElectronicDevicesApp {
             System.out.print("Choose a device: ");
             Integer device = scanner.nextInt();
 
-            System.out.println("1. Plug a Device");
+            System.out.println("\n1. Plug a Device");
             System.out.println("2. Unplug a Device");
             System.out.print("Choose an action: ");
             Integer action = scanner.nextInt();
